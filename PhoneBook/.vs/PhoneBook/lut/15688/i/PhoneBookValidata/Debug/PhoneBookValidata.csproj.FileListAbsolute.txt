@@ -1,0 +1,5 @@
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\b\PhoneBookValidata\bin\Debug\PhoneBookValidata.dll
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\PhoneBookValidata\Debug\PhoneBookValidata.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\PhoneBookValidata\Debug\PhoneBookValidata.csproj.CopyComplete
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\PhoneBookValidata\Debug\PhoneBookValidata.dll
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\PhoneBookValidata\Debug\PhoneBookValidata.csprojAssemblyReference.cache

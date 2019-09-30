@@ -1,0 +1,6 @@
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\b\NUnitTest\bin\Debug\NUnitTest.dll.config
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\b\NUnitTest\bin\Debug\NUnitTest.dll
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\NUnitTest\Debug\NUnitTest.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\NUnitTest\Debug\NUnitTest.csproj.CopyComplete
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\NUnitTest\Debug\NUnitTest.dll
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\NUnitTest\Debug\NUnitTest.csprojAssemblyReference.cache

@@ -1,0 +1,15 @@
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\ContactConsole.exe.config
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\ContactConsole.exe
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\ContactConsole.pdb
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\PhoneBook.dll
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\PhoneBookValidata.dll
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\Persistence.dll
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\PhoneBookValidata.pdb
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\PhoneBookValidata.xml
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\PhoneBook.pdb
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\bin\Debug\Persistence.pdb
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\obj\Debug\ContactConsole.csprojAssemblyReference.cache
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\obj\Debug\ContactConsole.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\obj\Debug\ContactConsole.csproj.CopyComplete
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\obj\Debug\ContactConsole.exe
+C:\Users\Adem\source\repos\PhoneBook\ContactConsole\obj\Debug\ContactConsole.pdb

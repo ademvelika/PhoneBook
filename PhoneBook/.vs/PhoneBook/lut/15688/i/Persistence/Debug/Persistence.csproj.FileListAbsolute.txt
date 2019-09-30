@@ -1,0 +1,5 @@
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\b\Persistence\bin\Debug\Persistence.dll
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\Persistence\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\Persistence\Debug\Persistence.csproj.CopyComplete
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\Persistence\Debug\Persistence.dll
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\Persistence\Debug\Persistence.csprojAssemblyReference.cache

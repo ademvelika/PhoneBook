@@ -1,0 +1,50 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>PhoneBookValidata</name>
+    </assembly>
+    <members>
+        <member name="M:PhoneBookValidata.PhoneBookInstance.Add(PhoneBookCore.Model.Contact)">
+            <summary>
+            Add Contact to store
+            Exception throws if error occured
+            </summary>
+            <param name="c"></param>
+        </member>
+        <member name="M:PhoneBookValidata.PhoneBookInstance.Delete(PhoneBookCore.Model.Contact)">
+            <summary>
+            Edit Contact to store
+            Exception throws if error occured
+            </summary>
+            <param name="c"></param>
+        </member>
+        <member name="M:PhoneBookValidata.PhoneBookInstance.Edit(PhoneBookCore.Model.Contact)">
+            <summary>
+            Edit Contact to store
+            Exception throws if error occured
+            </summary>
+            <param name="c"></param>
+        </member>
+        <member name="M:PhoneBookValidata.PhoneBookInstance.GetConcactOrderByAlphabet">
+            <summary>
+            Enumerate Contact by alphabet
+            Exception throws if error occured
+            </summary>
+            <param name="c"></param>
+        </member>
+        <member name="M:PhoneBookValidata.PhoneBookInstance.GetConcactOrderByFirstName">
+            <summary>
+            Enumerate Contact by first name
+            Exception throws if error occured
+            </summary>
+            <param name="c"></param>
+        </member>
+        <member name="M:PhoneBookValidata.PhoneBookInstance.GetConcactOrderByLastName">
+            <summary>
+            Enumerate Contact by last name
+            Exception throws if error occured
+            </summary>
+            <param name="c"></param>
+        </member>
+    </members>
+</doc>

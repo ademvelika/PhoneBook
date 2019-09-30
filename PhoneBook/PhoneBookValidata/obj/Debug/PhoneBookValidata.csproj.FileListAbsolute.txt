@@ -1,0 +1,12 @@
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\bin\Debug\PhoneBookValidata.dll
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\bin\Debug\PhoneBookValidata.pdb
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\bin\Debug\Persistence.dll
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\bin\Debug\PhoneBook.dll
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\bin\Debug\Persistence.pdb
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\bin\Debug\PhoneBook.pdb
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\obj\Debug\PhoneBookValidata.csprojAssemblyReference.cache
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\obj\Debug\PhoneBookValidata.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\obj\Debug\PhoneBookValidata.csproj.CopyComplete
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\obj\Debug\PhoneBookValidata.dll
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\obj\Debug\PhoneBookValidata.pdb
+C:\Users\Adem\source\repos\PhoneBook\PhoneBookValidata\bin\Debug\PhoneBookValidata.xml

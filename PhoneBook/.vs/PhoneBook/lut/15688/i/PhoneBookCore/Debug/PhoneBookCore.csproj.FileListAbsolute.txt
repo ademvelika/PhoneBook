@@ -1,0 +1,4 @@
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\b\PhoneBook\bin\Debug\PhoneBook.dll
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\PhoneBookCore\Debug\PhoneBookCore.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\PhoneBookCore\Debug\PhoneBookCore.csproj.CopyComplete
+C:\Users\Adem\source\repos\PhoneBook\.vs\PhoneBook\lut\0\i\PhoneBookCore\Debug\PhoneBook.dll

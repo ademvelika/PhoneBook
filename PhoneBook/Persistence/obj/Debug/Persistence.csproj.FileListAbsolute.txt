@@ -1,0 +1,9 @@
+C:\Users\Adem\source\repos\PhoneBook\Persistence\bin\Debug\Persistence.dll
+C:\Users\Adem\source\repos\PhoneBook\Persistence\bin\Debug\Persistence.pdb
+C:\Users\Adem\source\repos\PhoneBook\Persistence\bin\Debug\PhoneBook.dll
+C:\Users\Adem\source\repos\PhoneBook\Persistence\bin\Debug\PhoneBook.pdb
+C:\Users\Adem\source\repos\PhoneBook\Persistence\obj\Debug\Persistence.csprojAssemblyReference.cache
+C:\Users\Adem\source\repos\PhoneBook\Persistence\obj\Debug\Persistence.csproj.CoreCompileInputs.cache
+C:\Users\Adem\source\repos\PhoneBook\Persistence\obj\Debug\Persistence.csproj.CopyComplete
+C:\Users\Adem\source\repos\PhoneBook\Persistence\obj\Debug\Persistence.dll
+C:\Users\Adem\source\repos\PhoneBook\Persistence\obj\Debug\Persistence.pdb
